@@ -91,7 +91,7 @@ ul li:hover a {
 }
 /* About Section */
 .text_column {
-	width: 95%;
+	width: 100%;
 	font-weight: bolder;
 	line-height: 34px;
 	padding-left: 15px;
